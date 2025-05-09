@@ -1,0 +1,4 @@
+gnuplot population_regression.plt
+gnuplot internet_regression.plt
+gnuplot population_interpolation.plt
+gnuplot internet_interpolation.plt
